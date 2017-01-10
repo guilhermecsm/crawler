@@ -1,3 +1,7 @@
+# IMPORTANTE: 
+# Qte base utilizadas: 2
+# Bases: Latitude&longitude.csv e raios.csv (da parte 1)
+
 install.packages(c("dplyr", "lubridate", "RColorBrewer", "ggplot2"))
 library(dplyr)
 library(lubridate)
